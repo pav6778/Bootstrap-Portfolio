@@ -1,0 +1,98 @@
+
+body {
+    background: url("images/paper.png");
+}
+
+nav.navbar.navbar-expand-lg.navbar-.bg-light {
+    padding: 0;
+}
+a.navbar-brand {
+    padding: 0;
+    margin: 0;
+    width: 200px;
+    height: 88px;
+}
+
+img {
+    width: 146%;
+}
+a.nav-link.link:hover {
+    color: #4aaaa5;
+}
+a.nav-link.link {
+    color: #777777;
+}
+.container-fluid {
+    background-color: white ;
+    padding: 0;
+    border-bottom: 2px solid #cccccc;
+}
+nav.navbar.navbar-expand-lg.navbar-.bg-light {
+    background-color: #ffffff !important;
+}
+h2 {
+    padding: 10px;
+    font-size: 24px;
+    border-bottom: #dddddd solid 2px;
+    color: #777777;
+}
+p {
+    color: #777777;
+
+}
+#myportrait {
+    width: 220px;
+    padding: 10px 20px 10px 0;
+}
+div.container {
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 30px;
+    width: 66%;
+    margin-bottom: 12em;
+    border: #cccccc solid 1px;
+}
+
+button.btn.btn-primary {
+    background: #4aaaa5;
+    padding: 5px 25px 5px 25px;
+    border: none;
+}
+div > img {
+    width: 200px;
+}
+.col-lg-4 {
+    padding: 0;
+    width: 200px;
+    margin: 20px;
+    
+}
+.content_wrap {
+    width: 60%;
+}
+
+.portfolio_img {
+    background-color: red;
+    width: 100%;
+    position: relative;
+}
+.link_name {
+    position: absolute;
+    background-color: #4aaaa5;
+    left: 0;
+    right:0;
+    bottom: 5%;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    color: white;
+}
+.link_name:hover{
+    background: white;
+    color: #4aaaa5;
+}
+footer.footer.mt-auto.py-3 {
+    background-color: #777777;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    color: white;
+}
